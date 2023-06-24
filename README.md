@@ -1,10 +1,35 @@
-- 👋 Hi, I’m @Hasintha Nayanajith
-- 👀 I’m interested in Software Engineering
-- 🌱 I’m currently following Pearson BTEC in Computing - Software Engineering
-- 💞️ I’m looking to collaborate on software development projects
-- 📫 How to reach me  - hasintha.payoneer@gmail.com / +94775547473 (Tel/Whatsapp)
+# Hasintha Nayanajith
 
-<!---
-HasinthaNayanajith/HasinthaNayanajith is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## SOFTWARE ENGINEERING UNDERGRADUATE | JAVA, C# & JAVASCRIPT ENTHUSIAST | SPRINGBOOT AFICIONADO
+
+Hello there! Welcome to my GitHub profile. I am a passionate software engineering undergraduate with a strong interest in Java and related frameworks like SpringBoot, as well as frontend development using React. I believe in leveraging technology to create innovative and efficient solutions.
+
+### Skills
+
+- Programming Languages: Java, C#, JavaScript
+- Backend Technologies: SpringBoot, Hibernate, NodeJS, Express, .NET
+- Frontend Technologies: React
+- Database: SQL, MongoDB
+- Version Control: Git
+- Problem-Solving: Analyzing complex problems, devising effective solutions
+- Communication: Excellent interpersonal and teamwork skills
+
+### Education
+
+2022 - Present
+Pearson BTEC Higher Nationals in Computing - Software Engineering
+Following @Pearson UK
+
+2021 - 2022
+Pearson Assured Diploma in Software Engineering (DiSE) - Foundation
+Successfully Completed @Esoft Metro Campus, Colombo Sri Lanka
+
+### Contact Me
+
+I'm always excited to connect with fellow developers and explore new opportunities. Feel free to reach out to me through the following channels:
+
+- Email: hasintha.payoneer@gmail.com
+- LinkedIn: www.linkedin.com/hasintha-nayanajith
+- Personal Website: www.delizal.com
+
+Thank you for visiting my profile! Let's connect and collaborate on exciting projects.
