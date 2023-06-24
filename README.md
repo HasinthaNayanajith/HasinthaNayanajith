@@ -16,11 +16,11 @@ Hello there! Welcome to my GitHub profile. I am a passionate software engineerin
 
 ### Education
 
-2022 - Present
+2022 - Present <br/>
 Pearson BTEC Higher Nationals in Computing - Software Engineering
 Following @Pearson UK
 
-2021 - 2022
+2021 - 2022 <br/>
 Pearson Assured Diploma in Software Engineering (DiSE) - Foundation
 Successfully Completed @Esoft Metro Campus, Colombo Sri Lanka
 
