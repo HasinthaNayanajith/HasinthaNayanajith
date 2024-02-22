@@ -1,7 +1,5 @@
 # Hasintha Nayanajith
 
-## SOFTWARE ENGINEERING UNDERGRADUATE | JAVA, C# & JAVASCRIPT ENTHUSIAST | SPRINGBOOT AFICIONADO
-
 Hello there! Welcome to my GitHub profile. I am a passionate software engineering undergraduate with a strong interest in Java and related frameworks like SpringBoot, as well as frontend development using React. I believe in leveraging technology to create innovative and efficient solutions.
 
 ### Skills
