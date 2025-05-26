@@ -14,7 +14,11 @@ Hello there! Welcome to my GitHub profile. I am a passionate software engineerin
 
 ### Education
 
-2022 - Present <br/>
+2024 - 2025 <br/>
+BEng (Hons) In Software Engineering
+London Metropolitan University - UK
+
+2022 - 2024 <br/>
 Pearson BTEC Higher Nationals in Computing - Software Engineering
 Following @Pearson UK
 
