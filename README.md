@@ -13,15 +13,15 @@ A passionate software engineer with a strong interest in AI and MERN stack, PHP,
 
 2024 - 2025 <br/>
 BEng (Hons) In Software Engineering
-London Metropolitan University - UK
+@ London Metropolitan University - UK
 
 2022 - 2024 <br/>
 Pearson BTEC Higher Nationals in Computing - Software Engineering
-Following @Pearson UK
+@ Pearson UK
 
 2021 - 2022 <br/>
 Pearson Assured Diploma in Software Engineering (DiSE) - Foundation
-Successfully Completed @Esoft Metro Campus, Colombo Sri Lanka
+Successfully Completed @ Esoft Metro Campus, Colombo Sri Lanka
 
 ### Contact Me
 
